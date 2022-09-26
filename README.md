@@ -1,1 +1,7 @@
-# Book Search Engine Starter Code
+# Book Search Engine
+
+Uses
+- Apollo
+- Express
+- Mongoose
+  
